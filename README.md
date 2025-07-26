@@ -18,6 +18,7 @@ A real-time Kalman filter system built in Python for tracking a 2D projectile us
 
 ## Directory Structure
 
+```bash
 kalman_tracker/
 ├── animation.py              # Animation and GIF export logic
 ├── config.py                 # Default simulation parameters
@@ -33,6 +34,7 @@ kalman_tracker/
 │   ├── results.csv
 │   └── *.png
 └── README.md
+```
 
 ## Setup
 
