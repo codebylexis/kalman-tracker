@@ -19,7 +19,6 @@ A real-time Kalman filter system built in Python for tracking a 2D projectile us
 
 ## Directory Structure
 
-```
 kalman_tracker/
 ├── animation.py              # Animation and GIF export logic
 ├── config.py                 # Default simulation parameters
@@ -35,7 +34,6 @@ kalman_tracker/
 │   ├── results.csv
 │   └── *.png
 └── README.md
-```
 
 ## Setup
 
@@ -98,4 +96,3 @@ Velocity plots show how the filter converges on smoothed estimates for `vx` and 
 - Interactive uncertainty ellipses
 - Model-based switching (e.g. constant turn, acceleration)
 - Web-hosted version using Streamlit Cloud or Hugging Face Spaces
-```
