@@ -1,4 +1,3 @@
-```
 # Kalman Tracker
 
 A real-time Kalman filter system built in Python for tracking a 2D projectile using noisy sensor data. The project includes a physics simulator, filtering engine, matplotlib-based plotting, GIF export, and an interactive Streamlit UI.
